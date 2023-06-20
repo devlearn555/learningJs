@@ -3,6 +3,11 @@
 
 function xyz() {
     console.log('lower order function')
+    let zone = 'aooooppppp'
+    let spliting = zone.map(function(inc) {
+        return spliting.zone
+    })
+
 
 }
 function abc(xyz) {
